@@ -7,6 +7,9 @@ docs_dir: docs
 site_dir: _site
 copyright: Creative Commons Attribution Non Commercial
 theme:
+  icon:
+    logo: material/school
+  favicon: images/favicon.svg
   name: material
   # see https://squidfunk.github.io/mkdocs-material/getting-started/#color-palette
   palette:
