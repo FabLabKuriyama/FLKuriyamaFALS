@@ -1,8 +1,8 @@
 site_name: FabLab Kuriyama Lab Site
 
-site_description: Toshiki Tsuchiyama
+site_description: FabLab Kuriyama
 
-site_author: Toshiki Tsuchiyama
+site_author: Toshiki Tsuchiyama, Atsufumi Suzuki
 docs_dir: docs
 site_dir: _site
 copyright: Creative Commons Attribution Non Commercial
@@ -13,42 +13,11 @@ theme:
     primary: "deep"
     accent: "indigo"
   font:
-    false
-    # text: "Ubuntu"
-    # code: "Ubuntu Mono"
+    # false
+    text: "Ubuntu"
+    code: "Ubuntu Mono"
   feature:
     tabs: true
-
-nav:
-    - Home: index.md
-    - About: ./about/index.md
-    - Assignments:
-      - Principles and practices and Project management: ./assignments/week01.md
-      - Computer Aided design: ./assignments/week02.md
-      - Computer controlled cutting: ./assignments/week03.md
-      - Electronics production: ./assignments/week04.md
-      - 3D Scanning and printing: ./assignments/week05.md
-      - Electronics design: ./assignments/week06.md
-      - Computer controlled machining: ./assignments/week07.md
-      - Embedded programming: ./assignments/week08.md
-      - Input devices: ./assignments/week09.md
-      - Applications and implications: ./assignments/week10.md
-      - Output devices: ./assignments/week11.md
-      - Interface and application programming: ./assignments/week12.md
-      - Invention, intellectual property and income: ./assignments/week13.md
-      - Networking and communications: ./assignments/week14.md
-      - Molding and casting: ./assignments/week15.md
-      - Wildcard week: ./assignments/week16.md
-      - Mechanical design / Machine design: ./assignments/week17.md
-      - Project development: ./assignments/week18.md
-    - Final Project:
-      - 光彩-KOSAI-: ./projects/lightingaccesories.md
-      - ・Breadboard Prototyping & Programming: ./projects/lightingaccesories_part.1.md
-      - ・Circuit Design & Board Design at EAGLE: ./projects/lightingaccesories_part.2.md
-      - ・Erectronics Production & Embedded Programming: ./projects/lightingaccesories_part.3.md
-      - ・2D and 3D Design of the Housing: ./projects/lightingaccesories_part.4.md
-      - ・Presentation Preparation: ./projects/lightingaccesories_part.5.md
-      - Final Project Rough Idea: ./projects/final-project.md
 
 extra:
   social:
